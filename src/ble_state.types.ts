@@ -1,0 +1,1 @@
+export type BLEState = 'poweredOn' | 'poweredOff' | 'unauthorized' | 'unsupported' | 'unknown' | 'resetting';
