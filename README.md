@@ -49,7 +49,7 @@ An example running on a Raspberry PI (zero, 2, 3 and 4) can be found on ./exmapl
 
 ## Issues
 
-Please report issue using the following template
+Please report issue using the following template:
 
 ## Contributions
 
