@@ -3,8 +3,8 @@
   "version": "0.1.0+1",
   "description": "A Node.js module for implementing BLE (Bluetooth Low Energy) peripherals",
   "type": "commonjs",
-  "main": "./dist/index.js",
-  "types": "./dist/index.d.ts",
+  "main": "./lib/index.js",
+  "types": "./lib/index.d.ts",
   "engines": {
     "node": ">=12"
   },

@@ -16,3 +16,5 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
  * SOFTWARE.
  */
+
+export type OSKBLEState = "poweredOn" | "poweredOff" | "unauthorized" | "unsupported" | "unknown" | "resetting";
